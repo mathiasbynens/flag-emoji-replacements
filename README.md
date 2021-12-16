@@ -1,6 +1,6 @@
 # Interesting flag emoji replacements
 
-[Ben Joeng shared an interesting observation](https://twitter.com/iwsfutcmd/status/1471250563677388800):
+[iwsfutcmd](https://github.com/iwsfutcmd) [shared an interesting observation](https://twitter.com/iwsfutcmd/status/1471250563677388800):
 
 ```js
 '🇧🇬🇭🇷'.replace('🇬🇭', '🇦🇬'); // → '🇧🇦🇬🇷'

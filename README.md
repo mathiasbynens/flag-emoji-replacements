@@ -1,6 +1,6 @@
 # Interesting flag emoji replacements
 
-[iwsfutcmd](https://github.com/iwsfutcmd) [shared an interesting observation](https://twitter.com/iwsfutcmd/status/1471250563677388800):
+[@iwsfutcmd](https://github.com/iwsfutcmd) [shared an interesting observation](https://twitter.com/iwsfutcmd/status/1471250563677388800):
 
 ```js
 '🇧🇬🇭🇷'.replace('🇬🇭', '🇦🇬'); // → '🇧🇦🇬🇷'
@@ -64,7 +64,7 @@ Unicode defines the following 26 `Regional_Indicator` symbols:
 🇦 🇧 🇨 🇩 🇪 🇫 🇬 🇭 🇮 🇯 🇰 🇱 🇲 🇳 🇴 🇵 🇶 🇷 🇸 🇹 🇺 🇻 🇼 🇽 🇾 🇿
 ```
 
-Combining two of these into a [country code](https://unicode.org/reports/tr51/#Flags "Unicode region subtag") results in the flag emoji for that country. So, Ben’s example:
+Combining two of these into a [country code](https://unicode.org/reports/tr51/#Flags "Unicode region subtag") results in the flag emoji for that country. So, @iwsfutcmd’s example:
 
 ```js
 '🇧🇬🇭🇷'.replace('🇬🇭', '🇦🇬'); // → '🇧🇦🇬🇷'

@@ -6,7 +6,7 @@
 '🇧🇬🇭🇷'.replace('🇬🇭', '🇦🇬'); // → '🇧🇦🇬🇷'
 ```
 
-This repository contains every possible variation of this gotcha according to Unicode 14’s `RGI_Emoji_Flag_Sequence`. There’s [9,211,570 different variations clocking in at 718.50 MB](https://github.com/mathiasbynens/flag-emoji-replacements/tree/main/output), so the output is split across multiple files.
+This repository contains every possible variation of this gotcha according to Unicode 15’s `RGI_Emoji_Flag_Sequence`. There’s [9,211,570 different variations clocking in at 718.53 MB](https://github.com/mathiasbynens/flag-emoji-replacements/tree/main/output), so the output is split across multiple files.
 
 Examples:
 

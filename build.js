@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const flags = require('@unicode/unicode-14.0.0/Sequence_Property/RGI_Emoji_Flag_Sequence/index.js');
+const flags = require('@unicode/unicode-15.0.0/Sequence_Property/RGI_Emoji_Flag_Sequence/index.js');
 
 const MAX_LINES_PER_FILE = 10_000;
 

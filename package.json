@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "@unicode/unicode-15.1.0": "^0.0.2"
+    "@unicode/unicode-16.0.0": "^1.6.5"
   },
   "scripts": {
     "build": "node build.js && du --summarize --bytes output"

@@ -6,7 +6,13 @@
 '🇧🇬🇭🇷'.replace('🇬🇭', '🇦🇬'); // → '🇧🇦🇬🇷'
 ```
 
-This repository contains every possible variation of this gotcha according to Unicode 15.1.0’s `RGI_Emoji_Flag_Sequence`. There’s [9,211,570 different variations clocking in at 718.53 MB](https://github.com/mathiasbynens/flag-emoji-replacements/tree/main/output), so the output is split across multiple files.
+Those flags are:
+
+```
+'${Bulgaria} ${Croatia}'.replace('${Ghana}', '${Antigua & Barbuda}'); // → '${Bosnia & Herzegovina} ${Greece}'
+```
+
+This repository contains every possible variation of this gotcha according to Unicode 16.0.0’s `RGI_Emoji_Flag_Sequence`. There’s [9,351,188 different variations clocking in at 729.42 MB](https://github.com/mathiasbynens/flag-emoji-replacements/tree/main/output), so the output is split across multiple files.
 
 Examples:
 
